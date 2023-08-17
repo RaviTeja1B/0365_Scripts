@@ -1,0 +1,60 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+C:\O365-Audit\Scripts\GetMailboxCalendarPermissions.ps1                    27min
+C:\O365-Audit\Scripts
+
+
+
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                      3min
+C:\O365-Audit\Scripts\GuestUserReport.ps1
+C:\O365-Audit\Scripts
+
+
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+C:\O365-Audit\Scripts\MailboxHoldReport.ps1                                3min
+C:\O365-Audit\Scripts
+
+
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+C:\O365-Audit\Scripts\GetMB_NonAuditedActions.ps1                        10min
+C:\O365-Audit\Scripts
+
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                     3min
+C:\O365-Audit\Scripts\SendMailAuditReports.ps1
+C:\O365-Audit\Scripts
+
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                   1hr
+C:\O365-Audit\Scripts\UserActivityReport.ps1                              
+C:\O365-Audit\Scripts
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                  
+C:\O365-Audit\Scripts\NonOwnerMBAccessReport.ps1                            1hr40min
+C:\O365-Audit\Scripts
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                  
+C:\O365-Audit\Scripts\AuditExternalUserActivity.ps1                         3min
+C:\O365-Audit\Scripts
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                  
+C:\O365-Audit\Scripts\AuditSendAsEmails.ps1                                  3min
+C:\O365-Audit\Scripts
+
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                  
+C:\O365-Audit\Scripts\EmailForwordingReport.ps1                             3min 
+C:\O365-Audit\Scripts
+
+
+
