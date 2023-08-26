@@ -1,0 +1,13 @@
+Install-Module -Name ExchangeOnlineManagement
+
+$siteurl = "https://outlook.office365.com/"
+$username = "itadmin@epsoftinc.com"
+$password = "Pup90286"
+
+$securePassword = ConvertTo-SecureString -String $password -AsPlainText -Force
+$credentials = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $username, $securePassword
+
+$credentialName = "EPSoft"
+Add-PnPStoredCredential -Name $credentialName -Username $credentials.UserName -Password $credentials.Password
+
+Connect-PnPOnline -Url $siteurl -WarningAction Ignore

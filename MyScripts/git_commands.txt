@@ -1,0 +1,11 @@
+1	git config --global user.name "sri"
+2	git config --global user.email "ravi.morampudi@epsoftinc.com"
+3	git init
+4	git add README.md
+5	git commit -m "first commit"
+6	git branch -M main
+7	git remote add origin https://github.com/RaviTeja1B/unattended.git
+8	git push -u origin main
+
+
+
